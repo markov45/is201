@@ -1,0 +1,11 @@
+li{ font-size: 14px;
+    color: rgb(85, 1, 1);
+    font-weight: normal;}
+.background {background-color: beige;}
+.bold {font-weight: bolder;}
+.impact {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.script {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.red {color: red;}
+.center {margin-left: 10px;}
+.centerflex {display: flex; justify-content: center;}
+.flexall {display: flex; flex-direction: column; align-items: center;}

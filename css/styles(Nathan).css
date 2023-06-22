@@ -1,0 +1,47 @@
+body{font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: darkgray;
+    background-color: rgb(255, 255, 172);
+    }
+    li{ font-size: 14px;
+        font-style: italic;
+        color: maroon;
+        font-weight: normal;
+    }
+    .resumelistheading { 
+        font-weight:bold;
+        font-style: normal;
+    }
+    a{color: maroon;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited{
+    color: blue;
+}
+    .underline{text-decoration: underline; }
+    .bold{font-weight: bold;}
+    .justify{text-align: justify;}
+
+    .homebg{
+        background-image: url('../images/ChicagoatNight.jpg');
+        background-position: top right;
+        /* background-repeat: ; */
+    }
+
+    .box1{
+       border-width: 1px;
+       border-style: solid; 
+       border-color: gray;
+    }   
+    .box2{
+        padding: 5px;
+    }
+    /* we did this for seemingly no big reason just to show how things apply */
+    .box3{
+      margin: 50px;  
+    }
